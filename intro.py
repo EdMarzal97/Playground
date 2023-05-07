@@ -1,4 +1,5 @@
 """Module providingFunction printing python version."""
+import this
 #print("ohayo sekai"
 
 #mesage = "Hello Python Crash Course reader!"
